@@ -6,58 +6,59 @@ An integrated Bash and Python based cybersecurity toolkit for system monitoring,
 
 This tool is designed for:
 
-Ethical hackers
+  Ethical hackers
 
-Linux administrators
+  Linux administrators
 
-Cybersecurity students
+  Cybersecurity students
 
-Beginners who want to learn real-world scripting and information security basics.
+  Beginners who want to learn real-world scripting and information security basics.
 
 📜 Features
 System Monitoring (Linux Commands)
 
-View running processes (top)
+  View running processes (top)
 
-View disk usage (df -h)
+  View disk usage (df -h)
 
-View memory and swap usage (free -h)
+  View memory and swap usage (free -h)
 
 Information Gathering (OSINT)
 
-Whois lookup
+  Whois lookup
 
-DNS resolution (dig, nslookup)
+   DNS resolution (dig, nslookup)
 
-Traceroute network mapping
+  Traceroute network mapping
 
 Phishing Detection (Python Module)
 
-URL Analysis based on multiple risk features
+  URL Analysis based on multiple risk features
 
-Domain age detection
+  Domain age detection
 
-Subdomain depth, hyphen abuse, use of IPs
+  Subdomain depth, hyphen abuse, use of IPs
 
-Final verdict: Safe, Suspicious, or Phishing
+  Final verdict: Safe, Suspicious, or Phishing
 
 ⚡ Requirements
-Linux OS (Kali, Ubuntu, etc.)
+  Linux OS (Kali, Ubuntu, etc.)
 
-Python 3.x installed
+  Python 3.x installed
 
-Python libraries: whois, requests, tldextract
+  Python libraries: whois, requests, tldextract
 
-Bash environment
+  Bash environment
 
-Utilities: whois, dig, nslookup, traceroute, top
+  Utilities: whois, dig, nslookup, traceroute, top
 
 🚀 Usage
 bash
 Copy
 Edit
-chmod +x Dxd.sh
-./Dxd.sh
+
+  chmod +x Dxd.sh
+  ./Dxd.sh
 Follow menu prompts for monitoring, recon, and phishing detection.
 
 ⚠️ Disclaimer
